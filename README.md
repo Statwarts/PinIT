@@ -43,7 +43,7 @@ Create new notices/events by providing event details, including title, date, tim
 
 Users will be able to view if there are any clashes during the time of the current event.
 
-####Collaboration:
+#### Collaboration:
 
 Share events with colleagues or students for better coordination.
 
@@ -55,19 +55,19 @@ Receive real-time notifications for event clashes and updates.
 
 Edit or delete events as needed in the Admin Section.
 
-#### Contribute:
+## Contribute:
 
 We welcome contributions from the open-source community to make PIN-IT even better! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
+- Fork the repository.
 
-Create a new branch for your feature or bug fix.
+- Create a new branch for your feature or bug fix.
 
-Make your changes and commit them.
+- Make your changes and commit them.
 
-Push your branch to your fork.
+- Push your branch to your fork.
 
-Create a pull request.
+- Create a pull request.
 
 ## License:
 The PIN-IT App is open-source and released under the [MIT License](https://opensource.org/license/mit/).
